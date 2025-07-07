@@ -6,7 +6,7 @@ import numpy as np
 from PIL import Image
 
 st.header('What is this vegetable?')
-model = load_model('Fruit_Classifier_Model.keras')
+model = load_model('Vegetable_Classifier_Model.keras')
 data_cat = ['cabbage',
  'carrot',
  'cauliflower',
