@@ -1,3 +1,4 @@
-tensorflow==2.6.0
-pillow
 numpy
+pillow
+streamlit
+tensorflow
