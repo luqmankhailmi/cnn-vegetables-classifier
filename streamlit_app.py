@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow-cpu as tf
 import keras
 from keras.models import  load_model
 import streamlit as st
